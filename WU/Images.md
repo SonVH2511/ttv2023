@@ -6,7 +6,7 @@
 
 - Ở chall này ta được cấp 1 folder ảnh, hoàn toàn là chương trình `asm`. Dù dài, chương trình vô cùng đơn giản với hoàn toàn là các phép so sánh.
 
-![Alt text](IMG/Warmup/image.png)
+![Alt text](IMG/Images/image.png)
 
 - Nếu có điều gì cần lưu ý ở đây, có lẽ là ở một số câu lệnh sẽ được so sánh bằng số hệ 10 hoặc 16, cần cẩn thận để tránh sai sót.
 
