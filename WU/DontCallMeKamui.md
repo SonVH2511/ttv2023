@@ -56,7 +56,7 @@ hjhj}
 ```python
 for j in range(53):
     if j % 8 < 5:
-        comp += chr(a[j] ^ ord(IMG/DontCallMeKamui/input[j % 8]))
+        comp += chr(a[j] ^ ord(input[j % 8]))
     else:
         comp += "#"
 print(comp)
