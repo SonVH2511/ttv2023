@@ -1,6 +1,6 @@
 ## KCSC/RE
 
-## Hide and seek
+## Warm up
 
 ### Lời giải
 
