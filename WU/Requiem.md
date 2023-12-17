@@ -1,6 +1,6 @@
-## KCSC/CRypto
+## KCSC/MISC
 
-## EZ_Ceasar
+## Requiem
 
 ### Lời giải
 
