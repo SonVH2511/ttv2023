@@ -5,7 +5,7 @@
 ### Lời giải
 
 - Ở challenge này, ta được cung cấp 2 thứ là 1 file nhị phân `output.txt` và source python `src.py`.
-  ![Alt text](image.png)
+  ![Alt text](IMG/AwgMahBack/image.png)
 - Đọc file python, ta kết luận được rằng file `output.txt` chính là kết quả đầu ra của chương trình, được gen ra sau các câu lệnh mã hóa từ 1 file được gọi ra tên `flag.txt`. Không thấy sự xuất hiện của file `flag.txt`, vậy nhiệm vụ của mình ở chall này sẽ là giải mã file `output.txt` từ source cho trước để lấy flag.
 
 ```python
@@ -69,11 +69,11 @@ print(a + b + c)
 
 - Chạy script, thu được nội dung
 
-  ![Alt text](image-1.png)
+  ![Alt text](IMG/AwgMahBack/iimage-1.png)
 
 - trông đây là chuỗi được mã hóa dạng base64, giải mã ra ta có flag.
 
-  ![Alt text](image-2.png)
+  ![Alt text](IMG/AwgMahBack/image-2.png)
 
 ```
 flag: KCSC{84cK_t0_BaCK_To_B4ck_X0r`_4nD_864_oM3g4LuL}
