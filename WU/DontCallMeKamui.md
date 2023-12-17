@@ -68,7 +68,7 @@ print(comp)
 output: KCSC{###_y_tu###_roi_###_di_a###rom_i###_KMAC###hjhj}
 ```
 
-- Từ những vị trí khuyết của flag, mình cũng có thể đoán được đáp án là gì, để cho chắc mình nhặt một phần của flag là `_y_tu###_roi_` ra, điền vào phần khuyết, cụm từ duy nhất có nghĩa là `_y_tuong_roi_`, đưa vào script đầu tiên thế chỗ cho cụm `goldf`. với ý tưởng nhặt ra được input bởi cụm này dài hơn 8 ký tự, hoàn toàn đủ cơ sở làm điều đó(thực ra mình đoán được input là goldfish từ đầu rồi nma trình bày phải thuyết phục chút 🐧).
+- Từ những vị trí khuyết của flag, mình cũng có thể đoán được đáp án là gì, để cho chắc mình nhặt một phần của flag là `_y_tu###_roi_` ra, điền vào phần khuyết, cụm từ duy nhất có nghĩa là `_y_tuong_roi_`, đưa vào script đầu tiên thế chỗ cho cụm `goldf` với ý tưởng nhặt ra được input bởi cụm này dài hơn 8 ký tự, hoàn toàn đủ cơ sở làm điều đó(thực ra mình đoán được input là goldfish từ đầu rồi nma trình bày phải thuyết phục chút 🐧).
 
 - Chạy chương trình, ta thu được các trường hợp, với thông tin ở trên rằng input có 5 kí tự đầu là `goldf` và có chiều dài là 8, dò trong output ta thấy cụm từ thoả mãn cả hai điều trên.
 
