@@ -69,7 +69,7 @@ print(a + b + c)
 
 - Chạy script, thu được nội dung
 
-  ![Alt text](IMG/AwgMahBack/iimage-1.png)
+  ![Alt text](IMG/AwgMahBack/image-1.png)
 
 - trông đây là chuỗi được mã hóa dạng base64, giải mã ra ta có flag.
 
