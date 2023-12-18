@@ -4,6 +4,12 @@
 
 ### Lời giải
 
+- Ở chall này, đối với các newbie debugger(như mình), cần biết cách sử dụng chức năng debugger của `IDA`.
+
+  ![Alt text](IMG/DontCallMeKamui/image-7.png)
+
+- Chọn `Local win debugger`, `f9` để thực hiện debug, `f8` để nhảy tiếp, `f7` để nhảy vào dòng lệnh hiện tại. `f7` và `f8` có chức năng giống với `step` và `ni` nếu các bạn quen thực hiện debug ở `gdb` hơn. Bấm vào dòng lệnh ở khung chương trình graphview đặt breakpoint bằng `f2`.
+
 - Load chương trình vào `ida`, thứ đầu tiên mình chú ý tới là có mảng được khai báo với 8 giá trị. Sau đó dùng trong hàm nào đấy với các phép biến đổi và được thực hiện trước việc nhập input nên khả năng cao đây là key.
 
   ![Alt text](IMG/DontCallMeKamui/image.png)
